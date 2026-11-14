@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Заменить домен перед публикацией
-Sitemap: https://maslovgs1981.github.io/maslov-it/sitemap.xml
+Sitemap: https://maslov-it.ru/sitemap.xml
